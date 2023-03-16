@@ -1,1 +1,1 @@
-Repository for Neural Network Compression Applications.
+Repository for Neural Network Compression with Applications.
